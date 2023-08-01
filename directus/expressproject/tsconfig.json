@@ -2,7 +2,7 @@
     "compilerOptions": {
         "target": "ES6",
         "module": "CommonJS",
-        "outDir": "./expressproject/dist",
+        "outDir": "./dist",
         "rootDir": "./",
         "strict": true,
         "skipDefaultLibCheck": true,
